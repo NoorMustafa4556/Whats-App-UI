@@ -2,7 +2,7 @@
 
 A high-fidelity UI clone of the popular messaging application WhatsApp, built entirely with Flutter. This project is intended for educational purposes to demonstrate how to build complex, responsive, and beautiful user interfaces for cross-platform mobile applications.
 
-<h2 align="center">📱 WhatsApp UI Screenshots</h2>
+<h2 align="center">📱Screenshots</h2>
 
 <p align="center">
   <img src="https://github.com/NoorMustafa4556/What-App-UI/blob/main/assets/images/1.png" alt="WhatsApp UI 1" width="30%" style="margin: 10px;"/>
