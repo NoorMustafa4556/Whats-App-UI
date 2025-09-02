@@ -12,6 +12,7 @@ A high-fidelity UI clone of the popular messaging application WhatsApp, built en
   <img src="https://github.com/NoorMustafa4556/What-App-UI/blob/main/assets/images/5.png" alt="WhatsApp UI 5" width="30%" style="margin: 10px;"/>
 </p>
 
+
 ## ✨ Features
 
 -   **Splash Screen:** An initial screen that displays the app logo for a few seconds before navigating to the main interface.
