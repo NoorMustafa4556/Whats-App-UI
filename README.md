@@ -62,8 +62,12 @@ To get a local copy up and running, follow these simple steps.
     ```
 4.  **Run the app on an emulator or a physical device:**
     ```bash
+    flutter run
+    ```
+Select your emulator/simulator or connect a physical device.
 
-    # 👋🏻 Hi, I'm Noor Mustafa
+
+   # 👋🏻 Hi, I'm Noor Mustafa
 
 A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
 
