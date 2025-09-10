@@ -54,7 +54,7 @@ To get a local copy up and running, follow these simple steps.
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd What-App-UI
+    cd Whats-App-UI
     ```
 3.  **Install dependencies:**
     ```bash
@@ -63,7 +63,7 @@ To get a local copy up and running, follow these simple steps.
 4.  **Run the app on an emulator or a physical device:**
     ```bash
 
-    # 👋 Hi, I'm Noor Mustafa
+    # 👋🏻 Hi, I'm Noor Mustafa
 
 A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
 
@@ -73,7 +73,7 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 
 ## 🚀 What I Do
 
-- 🧑‍💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
+- 🧑🏻💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
 - 🔗 **API Integration** – I connect apps to powerful RESTful APIs and third-party services.
 - 🎨 **UI/UX Design** – I craft responsive and animated interfaces that elevate the user experience.
 - 🔐 **Authentication & Firebase** – I implement secure login systems and integrate Firebase services.
